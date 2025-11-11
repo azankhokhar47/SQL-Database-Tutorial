@@ -1,0 +1,3 @@
+USE startersql;
+ALTER TABLE users AUTO_INCREMENT = 1000;
+SELECT * FROM users;
